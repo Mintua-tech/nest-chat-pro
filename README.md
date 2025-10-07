@@ -28,6 +28,11 @@ A full-stack real-time chat application built with:
 
 ---
 
+## Screenshot
+
+![Chat App Screenshot](assets/screenshot (107).png)
+![Chat App Screenshot](assets/screenshot (107).png)
+
 ## Repository Structure
 
 # Real-time Chat App
